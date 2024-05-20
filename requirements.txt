@@ -7,6 +7,4 @@ langchain-groq
 python-dotenv
 pandasai
 matplotlib
-os
 pathlib
-langchain_groq
