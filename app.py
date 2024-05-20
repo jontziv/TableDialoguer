@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from pandasai import PandasAI
 from pandasai.llm.openai import OpenAI
 import matplotlib.pyplot as plt
 import os
