@@ -5,3 +5,8 @@ langchain_community
 groq
 langchain-groq
 python-dotenv
+pandasai
+matplotlib
+os
+pathlib
+langchain_groq
